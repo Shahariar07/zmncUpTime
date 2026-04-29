@@ -1,6 +1,7 @@
 # Change these first
 owner: Shahariar07 # Your GitHub organization or username, where this repository lives
 repo: zmncUpTime # The name of this repository
+baseUrl: /zmncUpTime
 
 sites:
   - name: ZMNC Website
